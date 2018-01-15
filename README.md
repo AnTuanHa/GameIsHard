@@ -4,7 +4,8 @@ A video game that I developed for my high school computer science final project
 (January 2016), written in Visual Basic.
 
 All artwork was created by me. All sound files/music was created by my friend,
-Cody Pierce.
+Cody Pierce, except for the LoseSound.wav (a sound clip taken from the TV show,
+King of the Hill).
 
 Below are some screenshots of the game.
 
